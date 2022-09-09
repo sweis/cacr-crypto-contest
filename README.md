@@ -4,10 +4,11 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 [Cryptographic Algorithm Design Competition](https://sfjs.cacrnet.org.cn/site/content/309.html) which [concluded in 2020](https://www.cacrnet.org.cn/site/content/854.html). The public key schemes seem to be intended to be post-quantum secure.
 
 ## Public Key Algorithm Winners
-
-### [Aigis-sig](https://github.com/sweis/carc-pq-contest/files/9537596/aigis-sig.pdf) / [Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537622/aigis-enc.pdf)
-
 ![cacr-pub-key](https://user-images.githubusercontent.com/408767/189411298-edf43312-5bf9-4800-928f-7a6a3b61217b.png)
+
+### [Aigis-sig](https://github.com/sweis/carc-pq-contest/files/9537596/aigis-sig.pdf): A famIly of siGnatures and key encapsulatIon mechaniSms from asymmetric (M)LWE and (M)SIS
+
+[Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537622/aigis-enc.pdf)
 
 * 张江 Zhang Jiang (State Key Laboratory of Cryptography Science and Technology)
 * 郁昱 Yu Yu (Shanghai Jiaotong University)
