@@ -1,7 +1,7 @@
-# Chinese Association for Cryptologic Research Post-Quantum Contest
+# Chinese Association for Cryptologic Research Algorithm Design Competition
 
 This is a mirror of some of the submissions from the Chinese Association for Cryptologic Research (CACR) 
-[post-quantum-algorithm design contest](https://sfjs.cacrnet.org.cn/site/content/309.html) which [concluded in 2020](https://www.cacrnet.org.cn/site/content/854.html).
+[Cryptographic Algorithm Design Competition](https://sfjs.cacrnet.org.cn/site/content/309.html) which [concluded in 2020](https://www.cacrnet.org.cn/site/content/854.html). The public key schemes seem to be intended to be post-quantum secure.
 
 ## Public Key Algorithm Winners
 
