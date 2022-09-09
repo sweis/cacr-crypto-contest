@@ -5,8 +5,7 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 
 ## Public Key Algorithm Winners
 
-### Aigis-sig / [Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537413/default.pdf)
-
+### [Aigis-sig](https://github.com/sweis/carc-pq-contest/files/9537596/aigis-sig.pdf) / [Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537413/default.pdf)
 
 ![cacr-pub-key](https://user-images.githubusercontent.com/408767/189405073-eb94706c-2bf0-4d9d-ba53-fb69635648f6.png)
 
@@ -27,7 +26,7 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 * 李宝 Li Bao (State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences)
 * 王鲲鹏 Wang Kunpeng (State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences)
 
-## Group Algorithm Winners
+## Block Cipher Algorithm Winners
 ![cacr-groups](https://user-images.githubusercontent.com/408767/189405119-574a7a08-e7dd-4bc0-a4d5-751b2ed431e7.png)
 
 ### [uBlock](https://github.com/sweis/carc-pq-contest/files/9537422/uBlock.pdf)
@@ -37,7 +36,7 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 * 郑雅菲 Zheng Yafei (Institute of Software, Chinese Academy of Sciences)
 * 李灵琛 Li Lingchen (Institute of Software, Chinese Academy of Sciences)
 
-### Ballet
+### [Ballet](https://github.com/sweis/carc-pq-contest/files/9537613/ballet.pdf)
 
 * 崔婷婷 Cui Tingting (Hangzhou Dianzi University)
 * 王美琴 Wang Meiqin (Shandong University)
