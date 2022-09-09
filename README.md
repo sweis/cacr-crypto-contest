@@ -5,7 +5,7 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 
 ## Public Key Algorithm Winners
 
-### [Aigis-sig](https://github.com/sweis/carc-pq-contest/files/9537596/aigis-sig.pdf) / [Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537413/default.pdf)
+### [Aigis-sig](https://github.com/sweis/carc-pq-contest/files/9537596/aigis-sig.pdf) / [Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537622/aigis-enc.pdf)
 
 ![cacr-pub-key](https://user-images.githubusercontent.com/408767/189405073-eb94706c-2bf0-4d9d-ba53-fb69635648f6.png)
 
