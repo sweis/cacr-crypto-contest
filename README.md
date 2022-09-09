@@ -7,7 +7,7 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 
 ### [Aigis-sig](https://github.com/sweis/carc-pq-contest/files/9537596/aigis-sig.pdf) / [Aigis-enc](https://github.com/sweis/carc-pq-contest/files/9537622/aigis-enc.pdf)
 
-![cacr-pub-key](https://user-images.githubusercontent.com/408767/189405073-eb94706c-2bf0-4d9d-ba53-fb69635648f6.png)
+![cacr-pub-key](https://user-images.githubusercontent.com/408767/189411298-edf43312-5bf9-4800-928f-7a6a3b61217b.png)
 
 * 张江 Zhang Jiang (State Key Laboratory of Cryptography Science and Technology)
 * 郁昱 Yu Yu (Shanghai Jiaotong University)
@@ -27,7 +27,7 @@ This is a mirror of some of the submissions from the Chinese Association for Cry
 * 王鲲鹏 Wang Kunpeng (State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences)
 
 ## Block Cipher Algorithm Winners
-![cacr-groups](https://user-images.githubusercontent.com/408767/189405119-574a7a08-e7dd-4bc0-a4d5-751b2ed431e7.png)
+![cacr-groups](https://user-images.githubusercontent.com/408767/189411284-3b1b178d-2eb7-4226-b345-3c8627ac1f96.png)
 
 ### [uBlock](https://github.com/sweis/carc-pq-contest/files/9537422/uBlock.pdf)
 
